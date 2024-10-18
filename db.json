@@ -35,12 +35,6 @@
       "name": "pizza",
       "calories": 120,
       "date": "2024-10-17"
-    },
-    {
-      "id": "7452",
-      "name": "peanuts",
-      "calories": 150,
-      "date": "2024-10-16"
     }
   ]
 }
