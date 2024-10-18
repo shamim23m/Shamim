@@ -1,0 +1,46 @@
+{
+  "meals": [
+    {
+      "id": "1",
+      "name": "Oatmeal",
+      "calories": 150,
+      "date": "2024-10-01"
+    },
+    {
+      "id": "2",
+      "name": "Grilled Chicken Salad",
+      "calories": 350,
+      "date": "2024-10-02"
+    },
+    {
+      "id": "3",
+      "name": "Spaghetti Bolognese",
+      "calories": 500,
+      "date": "2024-10-03"
+    },
+    {
+      "id": "4",
+      "name": "Greek Yogurt with Honey",
+      "calories": 200,
+      "date": "2024-10-04"
+    },
+    {
+      "id": "5",
+      "name": "Tuna Sandwich",
+      "calories": 300,
+      "date": "2024-10-05"
+    },
+    {
+      "id": "ee27",
+      "name": "pizza",
+      "calories": 120,
+      "date": "2024-10-17"
+    },
+    {
+      "id": "7452",
+      "name": "peanuts",
+      "calories": 150,
+      "date": "2024-10-16"
+    }
+  ]
+}

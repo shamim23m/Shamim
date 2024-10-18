@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add a Meal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h2>Add a Meal</h2>
+    
+    <form id="meal-form">
+        <label for="meal-name">Meal Name:</label>
+        <input type="text" id="meal-name" name="meal-name" required>
+        
+        <label for="calories">Calories:</label>
+        <input type="number" id="calories" name="calories" required>
+        
+        <label for="date">Date:</label>
+        <input type="date" id="date" name="date" required>
+        
+        <button type="submit">Add Meal</button>
+    </form>
+
+    <h3>Meal History</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Meal Name</th>
+                <th>Calories</th>
+                <th>Date</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody id="meal-list">
+            <!-- Meal entries will go here -->
+        </tbody>
+    </table>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
